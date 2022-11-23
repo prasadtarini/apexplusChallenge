@@ -1,0 +1,33 @@
+.cont11{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    width: 1100px;
+    height: 100%;
+}
+.inp1{
+    margin: 20px;
+    width: 130px;
+    border: 2px solid lightblue;
+    height: 30px;
+}
+.fontt{
+    color: green;
+    background-color: green;
+}
+.butt1{
+    margin-left: 70%;
+    background-color: lightgreen;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.butt2{
+    margin-left: 20px;
+    background-color: lightblue;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+}
